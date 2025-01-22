@@ -1,4 +1,6 @@
 ## Hi there 👋
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=하이요;바이요)](https://git.io/typing-svg)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinHoo99&layout=compact&show_icons=true&theme=tokyonight)
 [![SinHoo99's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinHoo99&show_icons=true&theme=tokyonight)](https://github.com/SinHoo99/github-readme-stats)
 
