@@ -1,6 +1,6 @@
 ## Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinHoo99&layout=compact)
-[![SinHoo99's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinHoo99)](https://github.com/SinHoo99/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinHoo99&layout=compact&show_icons=true&theme=tokyonight)
+[![SinHoo99's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinHoo99&show_icons=true&theme=tokyonight)](https://github.com/SinHoo99/github-readme-stats)
 
 ---
 
