@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-<!--[![SinHoo99's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinHoo99)](https://github.com/SinHoo99/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SinHoo99&layout=compact)
+[![SinHoo99's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinHoo99)](https://github.com/SinHoo99/github-readme-stats)
 <!--
 **SinHoo99/SinHoo99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
