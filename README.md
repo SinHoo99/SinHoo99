@@ -9,24 +9,10 @@
 
 ---
 
-# Technologies
+***Skills***
 
-## C#
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
-![C# Development](https://img.shields.io/badge/C%23-Development-239120?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
-
-## Unity
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
-![Unity 3D](https://img.shields.io/badge/Unity-3D-000000?style=flat&logo=unity&logoColor=white)
-![Unity WebGL](https://img.shields.io/badge/Unity-WebGL-000000?style=flat&logo=unity&logoColor=white)
-![Game Development](https://img.shields.io/badge/Game-Development-F28D1A?style=flat&logo=unity&logoColor=white)
-
-## 개발 도구
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-
-## 버전 관리
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
