@@ -14,11 +14,8 @@
 
 ## Unity 관련
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
-![HDRP](https://img.shields.io/badge/-HDRP-00AEEF?logo=unity&logoColor=white)
-![URP](https://img.shields.io/badge/-URP-00AEEF?logo=unity&logoColor=white)
 ![Unity 3D](https://img.shields.io/badge/Unity-3D-000000?style=flat&logo=unity&logoColor=white)
 ![Unity C# Scripting](https://img.shields.io/badge/Unity-C%23%20Scripting-000000?style=flat&logo=unity&logoColor=white)
-![Unity Asset Store](https://img.shields.io/badge/Unity-Asset%20Store-000000?style=flat&logo=unity&logoColor=white)
 ![Unity WebGL](https://img.shields.io/badge/Unity-WebGL-000000?style=flat&logo=unity&logoColor=white)
 ![Game Development](https://img.shields.io/badge/Game-Development-F28D1A?style=flat&logo=unity&logoColor=white)
 ![Physics Engine](https://img.shields.io/badge/Physics-Engine-8FBC8F?style=flat&logo=unity&logoColor=white)
