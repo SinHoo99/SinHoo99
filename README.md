@@ -5,8 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=하이요;바이요)](https://git.io/typing-svg)
 -->
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinHoo99&layout=compact&show_icons=true&theme=tokyonight&card_width=420" style="width: 420px; height: 170px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=SinHoo99&show_icons=true&theme=tokyonight&card_width=420" style="width: 420px; height: 170px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinHoo99&layout=compact&show_icons=true&theme=tokyonight&card_width=420" style="width: 400px; height: 170px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SinHoo99&show_icons=true&theme=tokyonight&card_width=420" style="width: 400px; height: 170px;" />
 </div>
 
 ---
