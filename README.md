@@ -6,12 +6,11 @@
 
 # Technologies
 
-## C# 관련
+## C#
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
 ![C# Development](https://img.shields.io/badge/C%23-Development-239120?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET-Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![NuGet](https://img.shields.io/badge/NuGet-Package-004880?style=flat&logo=nuget&logoColor=white)
 
 ## Unity 관련
 ![Unity](https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white)
