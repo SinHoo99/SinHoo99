@@ -1,6 +1,6 @@
 <div align = "center">
-  
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=SinHoo99&fontSize=50&fontAlign=30&fontAlignY=40" />
+
 <!--
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=하이요;바이요)](https://git.io/typing-svg)
 -->
@@ -8,6 +8,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinHoo99&layout=compact&show_icons=true&theme=tokyonight&card_width=380" style="width: 400px; height: 170px;" />
   <img src="https://github-readme-stats.vercel.app/api?username=SinHoo99&show_icons=true&theme=tokyonight&card_width=420" style="width: 400px; height: 170px;" />
 </div>
+
+<a href="https://sinhu99.tistory.com">
+    <img src="https://img.shields.io/badge/Tistory-Blog-blue?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory Badge">
+  </a>
 
 ---
 
